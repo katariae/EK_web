@@ -1,7 +1,7 @@
 # Site settings
 title: Ekaksh Kataria
 description: Personal website / Portfolio
-baseurl: "/EK_web"
+baseurl: ""
 url: "" 
 
 # Build settings
