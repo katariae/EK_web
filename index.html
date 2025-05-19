@@ -4,8 +4,8 @@ layout: home
 
 <div class="about">
   <p>
-    I'm a software engineer with a strong interest in machine learning, artificial intelligence, and quantitative finance.
-    My background spans both technical development and program management, giving me a unique perspective on building scalable systems and driving cross-functional initiatives.
+    I am a Physics graduate with a minor in Data Science from Michigan State University, with a strong foundation in scientific computing, machine learning, and mathematical modeling.
+    My work combines domain knowledge from physics with technical expertise in Python, PyTorch, and data analysis to explore complex systems through emulator-based modeling and uncertainty quantification. I’m particularly interested in the intersection of machine learning and the physical sciences, and have applied neural networks to study moment closures in kinetic theory. My approach blends analytical rigor with practical implementation, aiming to develop robust and interpretable models for real-world scientific problems.
   </p>
 
   <hr />
@@ -33,6 +33,9 @@ layout: home
                   <li>{{ point }}</li>
                 {% endfor %}
               </ul>
+              {% if role.link %}
+                <p><a href="{{ role.link }}" target="_blank">View Project →</a></p>
+              {% endif %}
             </div>
           </div>
         {% endfor %}
@@ -44,14 +47,11 @@ layout: home
 
   <h2>Skills</h2>
   <ul>
-    <li><strong>Languages</strong>: Python, C++, JavaScript, TypeScript, SQL, Bash</li>
-    <li><strong>Web</strong>: Angular, HTML, CSS, Spring Boot</li>
-    <li><strong>Backend</strong>: RESTful APIs, Databricks, XML processing</li>
-    <li><strong>Data & ML</strong>: OSM, OnStar Telemetry, AI/ML integration</li>
-    <li><strong>Simulation</strong>: ADAS testing, Pure Pursuit, LIDAR/Camera processing</li>
-    <li><strong>Tools</strong>: Git, Linux, QNX, ECM, Agile, JIRA</li>
-    <li><strong>Database</strong>: SQL, NoSQL, schema design</li>
-    <li><strong>Scripting</strong>: Python, Bash</li>
+    <li><strong>Languages</strong>: Python, C++, SQL, Bash, Shell, R, RStudio</li>
+    <li><strong>Data & ML</strong>:  PyTorch, NumPy, Git, Anaconda, Scikit-Learn, SQL, Pandas, Power BI.</li>
+    <li><strong>Simulation</strong>: Object Oriented Programming, Linear Regression, Logistic Regression, KNN, Principal Component Analysis (PCA), Support Vector Machines (SVM), Random Forest, Neural Networks</li>
+    <li><strong>Computer Science Foundations</strong>: Data Structures (Arrays, Trees, Graphs, Hash Tables), Algorithms (Sorting, Dynamic Programming, Recursion)</li>
+    <li><strong>Data Manipulation</strong>: Data Wrangling, Data Visualization, Statistical Modeling, Predictive Analytics</li>
   </ul>
 </div>
 

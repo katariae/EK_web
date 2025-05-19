@@ -8,3 +8,47 @@
         - Applied ML to kinetic equations for plasma physics moment closures.
         - Cut computation by 10% with deep learning–based reduced-order models.
         - Boosted training efficiency 15% using JAX and PyTorch.
+
+- company: Shree Radhika Plast LLP
+  logo: assets/images/company/SRPL.png
+  roles:
+    - title: Industrial Research Intern – Recycling and Polymer Manufacturing
+      location: New Delhi, India
+      date: May 2024 – Sep 2024
+      description:
+        - Operated recycling lines for technical-grade plastics, including extrusion and pelletization.
+        - Used SQL to analyze production data, reducing waste and boosting efficiency by 20%.
+        - Ran QA tests and supported teams in procurement, R&D, and manufacturing.
+
+- company: Department of Mathematics and Physics MSU 
+  logo: assets/images/company/msu_logo2.png
+  roles:
+    - title: Undergraduate Learning Assistant
+      location: MSU, East Lansing, MI
+      date: Sep 2022 – Dec 2024
+      description:
+        - Led lab sessions and guided students in experimental physics techniques.
+        - Conducted Calculus recitations and supported 200+ students with problem-solving.
+
+- company: Facility of Rare Isotope Beams
+  logo: assets/images/company/frib.png
+  roles:
+    - title: Undergraduate Research Assistant
+      location: MSU, East Lansing, MI
+      date: Jan 2023 - Mar 2024
+      description:
+        - Pratt, Scott, et al. “Bandframework Software - Smooth Emulator.” 25 Sept. 2024
+        - Built a Bayesian framework in C++ using sampling, emulation, and MCMC for fast, high-dimensional nuclear physics predictions.
+        - Optimized emulator code, resolving bugs and cutting computation time by 25%.
+        - Authored LaTeX documentation to streamline onboarding and user adoption.
+      link: https://github.com/bandframework/bandframework/tree/main/software/SmoothEmulator
+
+- company: Residence Education and Housing Services   
+  logo: assets/images/company/msu_logo2.png
+  roles:
+    - title: Resident Assistant
+      location: MSU, East Lansing, MI
+      date: Jan 2022 - May 2023 
+      description:
+        - Organized 10+ events to enhance student engagement and foster inclusive campus living.
+        - Ensured safety and conflict resolution for 96 residents through proactive crisis management and policy enforcement.

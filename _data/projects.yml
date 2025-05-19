@@ -1,12 +1,18 @@
-- name: Technology Driven Inventory Optimization
+- name: DC-Magnetron Sputtering System – Superconductivity and Tunneling Studies 
   description: 
-  - Built a ReactJS dashboard to track global medical kit deliveries in real time via GPS-enabled maps and shipment stats.
-  - Integrated Pebble sensors with AWS AppSync and DynamoDB for live location data.
-  - Secured transaction history using AWS Managed Blockchain to ensure data integrity.
-  - Improved supply chain transparency and issue response time for **100M+ annual patients**.
-  link: http://www.capstone.cse.msu.edu/2022-08/projects/stryker/
+  - Fabricated and characterized SIN and SIS tunnel junctions using Physical Vapor Deposition with Niobium and Aluminum on silicon substrates.
+  - Operated and maintained high-vacuum systems, gas flows, and glow discharge methods; ensured cryogenic safety with materials like liquid helium.
+  - Measured I-V characteristics with precision instruments and applied theoretical models to optimize insulator layers and junction performance.
+  link: 
 
-- name: ART Labs
+- name: Real world simulation of people’s Investing, Earning and Consuming – Agent Based Model
   description:
-    - Currently in Development!
-    - Will share progress as it comes!
+    - Developed an ABM to simulate real-world saving, investing, and consumption behaviors based on rule-driven agent interactions with their environment.
+    - Integrated neural networks and evolutionary algorithms to enable agent learning, adaptation, and emergence of complex behaviors.
+    - Optimized behavioral scenarios through continuous simulation, allowing for dynamic insights into economic decision-making patterns.
+
+- name: Growth analysis of Publicly Traded companies – Regression Model
+  description:
+    - Analyzed key financial ratios (EPS, P/E, ROA, ROE, D/E) across 7 companies—blue chip, mid-tier, and failing—to study their correlation with actual stock prices.
+    - Applied linear regression using scikit-learn to train and test predictive models on real stock market data.
+    - Evaluated model accuracy using MSE and regression diagnostics to assess the predictive power of fundamental indicators.

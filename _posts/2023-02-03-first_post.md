@@ -6,3 +6,5 @@ categories: []
 ---
 
 This is my first post! Hello world!
+    - Currently in Development!
+    - Will share progress as it comes!
